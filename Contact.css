@@ -13,8 +13,9 @@ body{
     justify-content: center;
     align-items: center;
     padding: 10px;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6);
-    
+    background-image: url("winter-img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .container{
